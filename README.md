@@ -1,5 +1,15 @@
 # 🔐 Password Strength Checker Pro
 
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+
+![GitHub stars](https://img.shields.io/github/stars/dharaniumesh/password_strength_checker?style=social)
+
 A Python-based Password Strength Checker that analyzes the security of user passwords based on multiple criteria and provides a security score, strength rating, statistics, and recommendations.
 
 ---
