@@ -30,15 +30,6 @@ A Python-based Password Strength Checker that analyzes the security of user pass
 
 ---
 
-## 🖥️ Technologies Used
-
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
-
----
-
 ## 📂 Project Structure
 
 ```
